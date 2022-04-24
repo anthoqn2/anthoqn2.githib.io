@@ -7,3 +7,12 @@ body {
 a {
     color : lightblue
 }
+.text {
+    color :dimgrey 
+}
+#ICS{
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: baseline;
+}
